@@ -1,5 +1,5 @@
 # car_Collision_Detection_orangeLabs
-# this is car collision detection system me and my team created it as graduation project in ITI ai-pro track undersupervision and mentoring of orange lab
+# this is car collision detection system me and my team created it as graduation project in ITI ai-pro track undersupervision and mentoring of orange labs
 ## Our Pipeline :
 ### read the camera stream then run our segmentation methodology of each car in the scene then compute VIF for each tracked object and give each feature vector of segmented cars to svm to detect whether this object has collision or not .
 ![alt text](https://github.com/AmrAbdElgawad/car_Collision_Detection_orangeLabs/blob/main/images/pipeline.png)

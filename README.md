@@ -18,6 +18,8 @@
 
 ## Our Pipeline for 3D Convolution (3D_ResNet-18):
 ### we used transfer learning on pretrained convolutional 3D models that aim to recognize the motions and actions of Cars and all models use Kinetics-400 dataset for the pretrained part and Vision-based Accident Detection From Surveillance Cameras dataset for the finetuned part.
+
+![alt text](https://github.com/AmrAbdElgawad/car_Collision_Detection_orangeLabs/blob/main/images/1.jpg)
 <h1 color="green"><b>Pytorch Pretrained Models</b></h1>
 <p>All pretrained models can be found in this link.
  <a href="https://pytorch.org/vision/stable/models.html">https://pytorch.org/vision/stable/models.html</a></p>

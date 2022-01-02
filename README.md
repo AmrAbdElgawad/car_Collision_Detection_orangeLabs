@@ -1,14 +1,8 @@
 # car_Collision_Detection_orangeLabs
 # this is car collision detection system me and my team created it as graduation project in ITI ai-pro track undersupervision and mentoring of orange labs
-<h1 color="green"><b>Abstract</b></h1>
-<p>Car Crash Detection can be seen as the Detection of Accident or Not in a video according to the actions occurring in it. It has
-become one of the most challenging and attractive problems in video classification and detection fields.
-The problem itself is difficult to solve by traditional video processing methods because of several challenges such as
-the background noise, sizes of subjects in different videos, and the speed of Cars.Derived from the progress of
-deep learning methods, several directions are developed for video detection, such as the violent flow
-, the long-short-term memory (LSTM)-based model, two-stream convolutional neural network (CNN) model, and the convolutional 3D model.
-Car Crash Detection is used in some surveillance systems and video processing tools.
-Our main problem is Accident Detection which we achieved to solve by using 2 aprroches `VIF` and `3D Convolution`.</p>
+## Car Crash Detection can be seen as the Detection of Accident or Not in a video according to the actions occurring in it. It has become one of the most challenging and attractive problems in video classification and detection fields.
+## The problem itself is difficult to solve by traditional video processing methods because of several challenges such as the background noise, sizes of subjects in different videos, and the speed of Cars.Derived from the progress of deep learning methods, several directions are developed for video detection, such as the violent flow , the long-short-term memory (LSTM)-based model, two-stream convolutional neural network (CNN) model, and the convolutional 3D model. Car Crash Detection is used in some surveillance systems and video processing tools.
+# Our main problem is Accident Detection which we achieved to solve by using 2 aprroches `VIF` and `3D Convolution`.</p>
 ## Our Pipeline for VIF :
 ### read the camera stream then run our segmentation methodology of each car in the scene then compute VIF for each tracked object and give each feature vector of segmented cars to svm to detect whether this object has collision or not .
 ![alt text](https://github.com/AmrAbdElgawad/car_Collision_Detection_orangeLabs/blob/main/images/pipeline.png)

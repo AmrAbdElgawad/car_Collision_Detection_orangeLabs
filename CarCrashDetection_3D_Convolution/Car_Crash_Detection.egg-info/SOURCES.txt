@@ -1,0 +1,11 @@
+LICENCE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+Car_Crash_Detection.egg-info/PKG-INFO
+Car_Crash_Detection.egg-info/SOURCES.txt
+Car_Crash_Detection.egg-info/dependency_links.txt
+Car_Crash_Detection.egg-info/top_level.txt
+car_crash_detection/CrashUtils.py
+car_crash_detection/__init__.py

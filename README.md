@@ -1,4 +1,4 @@
-# car_Collision_Detection_orangeLabs
+# car_Collision_Detection_OrangeLabs
 # this is car collision detection system me and my team created it as graduation project in ITI ai-pro track undersupervision and mentoring of orange labs
 ## Car Crash Detection can be seen as the Detection of Accident or Not in a video according to the actions occurring in it. It has become one of the most challenging and attractive problems in video classification and detection fields.
 ## The problem itself is difficult to solve by traditional video processing methods because of several challenges such as the background noise, sizes of subjects in different videos, and the speed of Cars.Derived from the progress of deep learning methods, several directions are developed for video detection, such as the violent flow , the long-short-term memory (LSTM)-based model, two-stream convolutional neural network (CNN) model, and the convolutional 3D model. Car Crash Detection is used in some surveillance systems and video processing tools.
